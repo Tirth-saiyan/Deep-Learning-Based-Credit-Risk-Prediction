@@ -1,0 +1,11 @@
+﻿# Ignore Python cache, envs, and data
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+data/
+*.db
+*.sqlite3
+*.log
